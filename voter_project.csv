@@ -1,0 +1,111 @@
+"Person Id","Name","Age","Gender","State","Pincode","Is alive","Is in India","Applicable for Vote","Voter Card Issued","Voter Card Number"
+"de786cc1-b023-2376-3476-f3c764b89156","Aryan Chauhan",19,"M","Andhra Pradesh",563920,"Alive","yes","Eligible","Issued",285098
+"016471ef-b7b5-4887-855f-5ade693a1c2b","Mrigh singh",12,"F","Andhra Pradesh",300256,"Alive","Yes","Not eligible","Not Issued","NA"
+"c05f9855-00d1-4234-8865-268fda9b3220","Mrinal Chaapli",64,"M","Arunachal Pradesh",865123,"Not Alive","Yes","Not eligible","Not Issued","NA"
+"4c401faa-43d4-4998-a79f-0240d63722aa","Siddhi Raj",57,"F","Arunachal Pradesh",963125,"Yes","No","Eligible","Issued",500290
+"10a4d1c0-4702-4b1e-a503-98dc089f479d","Kush Jha",23,"M","Arunachal Pradesh ",712345,"Alive","yes","Eligible","Issued",423284
+"Be1931bb-z684-4616-8b06-f2f825d03175","Momita",31,"F","Assam",123654,"Alive","Yes","Eligible","Issued",523641
+"aa6782hh-z563-5678-7c96-c3c567a23568","Abhar Gupta",34,"M","Assam",376796,"Alive","yes","Eligible","Issued",737837
+"3c536d19-204c-4cd0-8eff-c2ec6b985397","Sneha Shah",34,"F","Assam",123654,"Alive","no","Eligible","Issued",821445
+"b66a354c-1358-45c7-82fc-796dd4039e9b","Juhi Nene",19,"F","Assam",986393,"Alive","yes","Eligible","Not Issued","NA"
+"18a813ab-90a8-46a3-b7db-a9aeea8a52bf","Rudransh Tripathi",11,"M","Assam",896541,"Alive","No","Not eligible","Not Issued","NA"
+"da47b9c1-f36c-4b9c-89ca-8559a2d51c8a","Rekha sinha",48,"F","Bihar",803256,"Alive","Yes","Eligible","Issued",589600
+"op9931bb-f084-4616-8b06-f2f825d03175","Pankaj Kumar",26,"M","Bihar",803213,"Not Alive","No","Eligible","Not Issued","NA"
+"ca61b256-edbc-4614-9e73-2d41c9326249","Amit Kumar",29,"M","Bihar",823654,"Alive","Yes","not eligible","Issued",100230
+"e5b5fbc5-cdd4-49ba-9cf2-895b56a2bda3","Jamuna Bai",76,"F","Bihar",325179,"Alive","yes","Not eligible","Issued",432032
+"1522db04-209a-468b-aca9-b23b0f10b2ea","Riddi dutt",3,"M","Bihar",800001,"Alive","No","Not eligible","Not Issued","NA"
+"6e11c17c-89b2-2be3-ddrz-fb6798b80245","Farhan Quereshi",34,"M","Bihar",233447,"Not Alive","yes","Not eligible","Not Issued","NA"
+"07da8cfb-f5b7-4df8-b237-2c573fc9a946","Ram dutt",96,"M","Chattishgarh",646464,"Alive","No","Eligible","Issued",500230
+"a0a97cc5-f0c8-4b41-b761-b6544a922767","Doyel Dutta",17,"F","Chattishgarh",852369,"Alive","Yes","Not eligible","Not Issued","NA"
+"we1931bb-f084-4616-8b06-f2f825d03175","Jayanti Dubey",19,"F","Chhattisgarh",494335,"Alive","Yes","Eligible","Issued",321456
+"467vz643-4589-67f2-234e-e378d0491245","Dharmendar",67,"M","Delhi",687789,"Alive","yes","Eligible","Issued",242567
+"gh3729e3-31hz-1482-3b90-bb2370316b28","Varun Bansal",29,"M","Delhi",228856,"Alive","yes","Eligible","Issued",562985
+"pq3931bb-f084-4616-8b06-f2f825d03175","Amisha Anand",28,"F","Delhi",1100001,"Alive","No","Eligible","Not Issued","NA"
+"aa6782hh-z563-5678-7c96-c3c567a25678","Himansh Kumar",8,"M","Delhi",687789,"Alive","yes","Not eligible","Not Issued","NA"
+"be1931bb-f084-4616-8b06-f2f825d03175","Krushna Singh",20,"M","Goa",654123,"Alive","No","Eligible","Not Issued","NA"
+"be98532d-57e2-4569-9114-c9d692f39880","Suraj Singh",43,"M","Goa",984452,"Alive","yes","Eligible","Not Issued","NA"
+"f89cfd93-1a9f-4609-8dbb-99006f0a1684","Jeetha lal",36,"M","Gujrat",653214,"Alive","Yes","Eligible","Issued",965874
+"521a9bbd-d9ce-48e5-8d6a-f321ec5dde65","Huffman Singh Rathod",65,"M","Gujrat",458956,"Alive","no","Eligible","Not Issued","NA"
+"ebe85763-3d05-4bfa-8afe-32f5d1ed77f9","Mehak Mehta",31,"F","Gujrat",402389,"Yes","Yes","Eligible","Not Issued","NA"
+"cdda1fea-ff48-4ecb-ab95-d24974dfcc96","Trisha Novelty",17,"F","Gujrat",563256,"Yes","No","Not eligible","Not Issued","NA"
+"0f36f8a4-e48d-4483-8fc4-d399e5ce0241","Aniket Soman",28,"M","Haryana",621364,"Alive","yes","Eligible","Issued",467834
+"84113de5-8f67-4b35-aa0d-b109d4c885db","Harmeet kaur",69,"F","Haryana",121212,"Alive","Yes","Eligible","Not Issued","NA"
+"607bd3b0-b635-4653-8cb0-a433929609","Harkret Singh",13,"F","Haryana",232301,"Alive","Yes","Not eligible","Not Issued","NA"
+"0b1060b7-d122-4597-9e19-8d6c8a42098c","Hrishikesh Jyoti",43,"M","Himachal Pradesh",256347,"Alive","yes","Eligible","Issued",409876
+"le1931bb-f084-4616-8b06-f2f825d03175","Aishwarya Rai",24,"M","Himachal Pradesh",175052,"Not Alive","Yes","Not eligible","Issued",321987
+"7280da34-2e37-4160-8d50-3babf0ad7116","Manoj Lahoria",34,"M","Jammu",325325,"Alive","yes","Eligible","Not Issued","NA"
+"de1931bb-f084-4616-8b06-f2f825d03175","Sanjay Gupta",37,"M","Jharkhand",825301,"Alive","Yes","Eligible","Issued",123459
+"6e5cc638-cd66-4773-a9e0-5f747665a250","Kumar Johari",55,"M","Jharkhand",656352,"Alive","yes","Eligible","Not Issued","NA"
+"924d2eae-634b-4601-80df-96e9e4c09c13","Deepak Uphadyay",12,"M","Jharkhand",802312,"Alive","Yes","Not eligible","Not Issued","NA"
+"968097ce-8c89-462f-8a2f-e8adf5a37779","Shalini Gupta",20,"F","Jharkhand",825300,"Not Alive","Yes","Not eligible","Not Issued","NA"
+"fu6931bb-f084-4616-8b06-f2f825d03175","Aditya Usuf",23,"M","Karnataka",127600,"Not Alive","yes","Eligible","Issued",831180
+"fb413a58-ca11-4fa3-9d7c-1be2ee9e42da","Johny Sirala",54,"M","Karnataka",765432,"Alive","yes","Eligible","Issued",402020
+"f567f64f-64d2-4d2f-a533-ddb7da6da928","Jethalal Chouhan",36,"M","Karnataka",876543,"Alive","yes","Eligible","Issued",406392
+"9f230f67-531b-4417-89ff-ed574a7da6f3","Krish Kumar",19,"M","Karnataka",456987,"Alive","No","Eligible","Issued",582496
+"be1931bb-f084-4616-8b06-f2f825d03205","Varhuhi Das",31,"F","Karnataka",562149,"Alive","No","Not eligible","Not Issued","NA"
+"bz9931bb-f084-4616-8b06-f2f825d03175","Anushka Naidu",21,"F","Kerala",364135,"Alive","Yes","Eligible","Issued",231895
+"643g198d-c23e-b3fd-784c-145b23489154","Aswathy Vijay",20,"F","Kerala",301210,"Alive","no","Eligible","Issued",389175
+"de1b08d0-1597-4126-8c74-5d8e8f0e746f","Ananya Verma",21,"F","Kerala",109901,"Alive","Yes","Eligible","Not Issued","NA"
+"f0f7b178-5880-4541-86aa-be1ebdbbad6a","Ishwari Somaliya",24,"F","Kerala",653928,"Alive","no","Eligible","Not Issued","NA"
+"d4602857-9041-4bc5-a2ab-235a31f5549e","Vicky Roshan",34,"M","Kerala",876362,"Alive","yes","Eligible","Not Issued","NA"
+"60f70cf6-2205-497e-855a-7aba73df1bca","Vaibhav Tak",9,"M","Kerala",965412,"Alive","No","Not eligible","Not Issued","NA"
+"O89cfd93-1a9f-4609-8dbb-99006f0a1684","Surya Palli",20,"M","Kerela",123409,"Alive","yes","Eligible","Not Issued","NA"
+"be2961bb-f084-4616-8b06-f2f825d03175","Niharika Sinha",26,"F","Madhya Pradesh",452010,"Alive","No","Eligible","Issued",123450
+"ck3931bb-f084-4616-8b06-f2f825d03175","Sumit Khan",12,"M","Madhya Pradesh",218907,"Alive","yes","Not eligible","Not Issued","NA"
+"96e5e566-57cf-435e-b2f9-9e270c348001","Rajiv Sehgal",13,"M","Madhya Pradesh",456763,"Alive","yes","Not eligible","Not Issued","NA"
+"vz458b34-34zf-b045-7cff-7fd3453e6781","Hema Malini",58,"F","Madhya Pradesh",578032,"Not Alive","yes","Not eligible","Not Issued","NA"
+"ae7866cc-b023-2376-1276-f3c764b89156","Sadhana",45,"F","Maharashtra",563198,"Alive","no","Eligible","Issued",349752
+"683f247d-170f-4ffc-be65-e3d26a596282","Sidharth Shukla",20,"M","Maharashtra",440404,"Alive","yes","Eligible","Issued",803124
+"5d256b21-c4db-47f6-a6b2-162b45366137","Rahul Gandhi",40,"M","Maharashtra",405637,"Alive","yes","Eligible","Issued",845612
+"wZ1931bb-f084-4616-8b06-f2f825d03175","Deepi Chopra",23,"F","Maharashtra",123453,"Not Alive","no","Eligible","Issued",878900
+"c23bb21f-0163-450c-88b4-80a64601c727","Saniya Mansuri",20,"F","Maharashtra",430321,"Alive","yes","Eligible","Not Issued","NA"
+"bz9931bb-f084-4616-8b06-f2f825d031Fu","Ameya Sharma",25,"M","Maharashtra",128601,"Not Alive","yes","Eligible","Not Issued","NA"
+"4bfdea56-03cb-45c5-9ba0-55d30fdea9d9","Ritviz Kumar",67,"M","Maharashtra",875671,"Alive","no","Eligible","Not Issued","NA"
+"6b4fc081-916c-4492-b6ca-ee65c728e1a1","Samruddhi Ahire",20,"F","Maharashtra",546786,"Alive","yes","Eligible","Not Issued","NA"
+"14540013-31f0-4337-80ef-ce3fbfee8738","Roopa Singh",12,"F","Maharashtra",123496,"Alive","no","Not eligible","Not Issued","NA"
+"4e441b1b-481d-44b9-aaec-fb7ddabc22f0","Punit Pathak",30,"M","Maharashtra",123402,"Alive","yes","Not eligible","Not Issued","NA"
+"73939df5-9b43-48e2-8042-6e2d2fa15352","Harish Chawla",88,"M","Maharashtra",532190,"Alive","no","Not eligible","Not Issued","NA"
+"0e44aba0-6456-4c8f-bc05-1e4d6de5ffe5","Nihu",45,"F","Manipur",689423,"Alive","Yes","Eligible","Issued",500230
+"22b0252f-30a8-45ca-b927-ddaaa9a059ed","Rhudrima",29,"F","Meghalaya",785236,"Alive","Yes","Eligible","Issued",500001
+"7bd3b0-b635-4653-8cb0-a42233929609","Marry Com",50,"F","Mizoram",126009,"Alive","yes","Eligible","Issued",880013
+"98c4e323-8ef4-43da-bd99-0b9798190b89","Chichung Kumar",43,"M","Mizoram",965432,"Not Alive","No","Not eligible","Issued",562341
+"b197a3aa-a69a-43a9-afc0-e8d0612cce1d","Anamika",17,"F","Mizoram",365789,"Not Alive","Yes","Not eligible","Not Issued","NA"
+"502936a9-c431-4be8-b21c-6571e29a9df2","Lalit Kumar Modi",43,"M","Nagaland",123765,"Alive","yes","Eligible","Not Issued","NA"
+"f94e5930-e54a-4b05-871b-e6be25c062e8","Akshay khana",63,"M","Nagaland",896523,"Not Alive","Yes","Not eligible","Issued",563214
+"ae1931bb-f084-4616-8b06-f2f825d03175","PK Bhuyia",43,"M","Odhisha",759026,"Alive","Yes","Eligible","Issued",123458
+"136bef2e-7290-4b72-b1d0-55e2eb12b28e","Ridhima",27,"F","Odhissa",963258,"Alive","Yes","Eligible","Not Issued","NA"
+"62d3dcca-11b5-4647-847f-c91b795f0860","Yash Kumar",29,"M","Odhissa",423301,"Alive","no","Eligible","Issued",432722
+"be1931cb-f084-4616-8b06-f2f825d03175","Mridul Gupta",26,"M","Punjab",143001,"Alive","Yes","Eligible","Issued",123456
+"767e81cc-e189-4342-a427-b53beaa4f62f","Jaywant Singh",43,"M","Punjab",165323,"Not Alive","yes","Eligible","Not Issued","NA"
+"fa94fb2c-38bf-4010-a044-fb7a5cdf8b0f","Roshan Sodhi",26,"M","Punjab",123221,"Alive","Yes","Not eligible","Issued",505050
+"gh1931bb-f084-4616-8b06-f2f825d03175","Sheshav Anand",49,"M","Rajasthan",323021,"Alive","Yes","Eligible","Issued",321654
+"Q0a97cc5-f0c-4b41-b761-b6544a922767","Rana Pratap",35,"M","Rajasthan",319008,"Not Alive","no","Eligible","Issued",820700
+"0015d1d2-accf-4005-a36e-9c032755facf","Lakmir Patidar",49,"M","Rajasthan",364364,"Alive","Yes","Eligible","Not Issued","NA"
+"ae786cd1-b023-2376-3476-f3c764b89156","Arpita Yadav",12,"F","Rajasthan",372343,"Alive","yes","Not eligible","Issued",769492
+"aa6782hf-z563-5678-7c96-c3c567a23545","Akash Srivastava",23,"M","Rajasthan",377032,"Alive","yes","Not eligible","Not Issued","NA"
+"7a50a0f6-5a2e-4b1c-ad8b-ba4aec15b707","Ajay Verma",38,"M","Sikkim",987562,"Not Alive","No","Eligible","Not Issued","NA"
+"7034a7d6-1b1e-45c8-ab39-025bd1dd9b58","Jang Kumar",5,"M","Sikkim",895895,"Alive","No","Not eligible","Not Issued","NA"
+"730f273e-290f-b903-2248-ef567e127391","Swati Singh",78,"F","Tamil Nadu",378291,"Not Alive","yes","Eligible","Issued",187432
+"be1931bb-f084-4616-8b06-f2f825d03165","Ansh Reddy",29,"M","Tamil Nadu",600005,"Alive","No","Eligible","Issued",321789
+"575d8f8b-cbdf-4686-9c97-472c3ed61537","Allu Reddy",69,"M","Tamil Nadu",506006,"Not Alive","No","Eligible","Issued",595095
+"12764578-76d4-9887-45cd-de2ae491025","Siddhant Pandey",26,"M","Tamil Nadu",483902,"Not Alive","yes","Not eligible","Not Issued","NA"
+"12945623-45c0-7861-3917-ve346cv58561","Mansi Chaudhary",71,"F","Tamil Nadu",736719,"Alive","yes","Not eligible","Not Issued","NA"
+"0f26742b-970f-452b-8237-e528be8d6444","Arjun Reddy",36,"M","Tamil Nadu",321654,"Alive","No","Not eligible","Issued",896325
+"ap6931bb-f084-4616-8b06-f2f825d03175","Rahul Jain",47,"M","Telangana",500001,"Not Alive","No","Not eligible","Issued",632541
+"8abb6b61-466c-4c97-a705-c9a0166cade1","Aruhi Bhut",15,"F","Tripura",745632,"Not Alive","No","Not eligible","Not Issued","NA"
+"be1831bb-f084-4616-8b06-f2f825d03175","Ambuj Raj",45,"M","Uttar Pradesh",211005,"Alive","Yes","Eligible","Issued",123457
+"875d2f02-2d4a-4605-b960-9fd74b7e5066","Suchi Rana",56,"F","Uttar Pradesh",223339,"Alive","yes","Eligible","Issued",812900
+"2347bd34-hg89-3485-3786-e8798cd23893","Chavi Singh",18,"F","Uttar Pradesh",378163,"Alive","yes","Eligible","Issued",982618
+"b2cd173d-4a58-4e64-ab14-240ab20c6154","Harman kumar",67,"M","Uttarakhand",232323,"Alive","Yes","Eligible","Issued",578001
+"be1631bb-f084-4616-8b06-f2f825d03175","Gauravi Bishnoi",19,"F","Uttarakhand",248001,"Alive","No","Eligible","Not Issued","NA"
+"9283719c-cb22-4e33-8924-7ced132008f6","Jimmi Shashwat",22,"F","Uttarakhand",253253,"Alive","yes","Eligible","Not Issued","NA"
+"fu8631bb-f084-4616-8b06-f2f825d03175","Niharika Sinha",27,"M","West Bengal",444001,"Alive","Yes","Eligible","Issued",145236
+"3efccb29-9eee-4b9f-9124-3e6a6e647924","Mamta Kejriwal",77,"F","West Bengal",756347,"Alive","yes","Eligible","Issued",423762
+"le1931bb-f084-4616-8H06-f2f825d03175","Sunidhi Chauhan",56,"F","West Bengal",126780,"Alive","yes","Eligible","Issued",850012
+"zf1931bb-f084-4616-8b06-f2f825d03175","Anshu Sinha",46,"F","West Bengal",721636,"Alive","No","Eligible","Not Issued","NA"
+"bc056e31-935f-4627-81ff-59c4043991cf","Gautam Kumar",36,"M","West Bengal",759957,"No","No","Not eligible","Issued",530110
+"0a044f7c-79ef-4383-bf36-74e0e54ae6b0","Ashiwani SInha",47,"M","Delhi",111011,"Yes","No","Eligible","Not Issued","NA"
+"f381c359-a0c4-456b-8440-e843870633e1","Anushka Singh",17,"F","Goa",596575,"Yes","Yes","Not eligible","Not Issued","NA"
+43280ad8-1156-4522-be54-032b559b966a,Muskan Singh,18,F,Goa,564654,Yes,No,Eligible,Not Issued,NA
+d16e6c05-8059-4949-b354-5bc2e21cea8a,Atul Mehta,48,M,Gujrat,789654,Yes,Yes,Eligible,Issued,502050
+06f48e68-19c5-4923-892a-1300e495430b,Krish Sinha,17,M,Goa,525252,No,No,Not eligible,Not Issued,NA
